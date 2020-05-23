@@ -1,9 +1,3 @@
 Hello my name is me
 This is new addition
-hello hello......
-
-1. first lien
-2. Second line
-3. third line
-4. forth line
-5. Testing
+hello hello
